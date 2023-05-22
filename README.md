@@ -12,7 +12,7 @@
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, and Java.</li>
   <li>💼 I'm founder and Co-CEO of Arantic Tutorials.</li>
-  <li>🧐 Portfolio Website built with React JS, https://react-portfolio-9l6.pages.dev</li>
+  <li>🧐 Portfolio Website built with React JS, https://siuming-intro.web.app</li>
 </ul>
 
 #### A little more about me
